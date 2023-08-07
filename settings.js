@@ -8,7 +8,7 @@ const {
 
 //sebagian panel gk support opena ai jadi mungkin apikey lu bakalan di blokir
 //klo misalkan pada saat memakai fitur ai, terus dapat email dari open si, itu berarti website tempat lu install bot gk support ai
-global.OpenAIKey = "qLRjE2KLT6AqHp6" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
